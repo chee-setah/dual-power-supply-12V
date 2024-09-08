@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Power_Synth.PcbDoc   2024-07-20  1:32:17 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Power_Synth.TXT
+EIA File   : Power_Synth.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             2         PTH        0.14inch (3.61mm)
+T2      28mil (0.701mm)                                           Round             8         PTH        1.28inch (32.50mm)
+T3      34mil (0.851mm)                                           Round             4         PTH        2.58inch (65.50mm)
+T4      39mil (1.001mm)                                           Round             12        PTH        5.64inch (143.25mm)
+T5      41mil (1.039mm)                                           Round             3         PTH        0.85inch (21.52mm)
+T6      43mil (1.1mm)                                             Round             6         PTH        1.05inch (26.66mm)
+T7      45mil (1.151mm)                                           Round             12        PTH        9.35inch (237.58mm)
+T8      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T9      98mil (2.499mm)                                           Round             4         PTH        10.45inch (265.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              53
+
+Total Processing Time (hh:mm:ss) : 00:00:00

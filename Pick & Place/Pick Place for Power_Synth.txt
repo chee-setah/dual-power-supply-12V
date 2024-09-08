@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Power_Synth\Project Outputs for Power_Synth\Pick Place\Pick Place for Power_Synth.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20-07-24
+Time:       01:12
+Revision:   7417f713ada7343fe225d919fa76dc6d2f93de7b
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                           
+GND        SSW-101-01-G-S TopLayer SSW-101-XX-YYY-S              4429.134      984.252       90       Connector                                                                                             
+PTH4       PTH-M2D5X5     TopLayer PTH-M2D5X5                    4448.819      137.795       0        "M2 PTH (2.5mm), 5mm pad"                                                                             
+PTH3       PTH-M2D5X5     TopLayer PTH-M2D5X5                    4448.819      1968.504      0        "M2 PTH (2.5mm), 5mm pad"                                                                             
+PTH2       PTH-M2D5X5     TopLayer PTH-M2D5X5                    137.795       137.795       0        "M2 PTH (2.5mm), 5mm pad"                                                                             
+PTH1       PTH-M2D5X5     TopLayer PTH-M2D5X5                    137.795       1968.504      0        "M2 PTH (2.5mm), 5mm pad"                                                                             
+-12V_DC    SSW-101-01-G-S TopLayer SSW-101-XX-YYY-S              4212.598      610.236       90       Connector                                                                                             
++12V_DC    SSW-101-01-G-S TopLayer SSW-101-XX-YYY-S              4212.598      1338.583      90       Connector                                                                                             
+L7912      L7912ACV       TopLayer TO220                         3602.362      628.346       270      "2% Negative Voltage Regulator, -12V, 3-Pin TO-220"                                                   
+L7812      L7812ACV       TopLayer TO220                         3602.362      1477.953      270      "Positive Voltage Regulator, 12V, 3-Pin TO-220"                                                       
+2.4K       2.4K           TopLayer RESA60-630X240                3562.992      118.110       180      "Axial Resistor, 2.2 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                    
+2.4K       2.4K           TopLayer RESA60-630X240                3562.992      1988.189      180      "Axial Resistor, 2.2 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                    
+IN         691137710002   TopLayer 691137710002                  305.118       1003.937      270      ""                                                                                                    
+1N4004     1N4004         TopLayer FAIR-DO-41-2                  3090.551      118.110       180      "General Purpose Rectifier, 400 V, 1 A, -55 to 175 degC, 2-Pin DO-204AL (DO-41), RoHS, Tape and Reel" 
+1N4004     1N4004         TopLayer FAIR-DO-41-2                  531.496       629.921       270      "General Purpose Rectifier, 400 V, 1 A, -55 to 175 degC, 2-Pin DO-204AL (DO-41), RoHS, Tape and Reel" 
+1N4004     1N4004         TopLayer FAIR-DO-41-2                  4094.488      905.512       0        "General Purpose Rectifier, 400 V, 1 A, -55 to 175 degC, 2-Pin DO-204AL (DO-41), RoHS, Tape and Reel" 
+1N4004     1N4004         TopLayer FAIR-DO-41-2                  4094.488      1043.307      0        "General Purpose Rectifier, 400 V, 1 A, -55 to 175 degC, 2-Pin DO-204AL (DO-41), RoHS, Tape and Reel" 
+1N4004     1N4004         TopLayer FAIR-DO-41-2                  531.496       1377.953      270      "General Purpose Rectifier, 400 V, 1 A, -55 to 175 degC, 2-Pin DO-204AL (DO-41), RoHS, Tape and Reel" 
+1N4004     1N4004         TopLayer FAIR-DO-41-2                  3090.551      1988.189      180      "General Purpose Rectifier, 400 V, 1 A, -55 to 175 degC, 2-Pin DO-204AL (DO-41), RoHS, Tape and Reel" 
+1uF        1uF            TopLayer FP-R82DC4100DQ60J-MFG         3169.291      531.496       270      "CAP FILM 1UF 5% 63VDC RADIAL"                                                                        
+1uF        1uF            TopLayer FP-R82DC4100DQ60J-MFG         3169.291      866.142       90       "CAP FILM 1UF 5% 63VDC RADIAL"                                                                        
+1uF        1uF            TopLayer FP-R82DC4100DQ60J-MFG         3169.291      1279.528      270      "CAP FILM 1UF 5% 63VDC RADIAL"                                                                        
+1uF        1uF            TopLayer FP-R82DC4100DQ60J-MFG         3169.291      1614.173      90       "CAP FILM 1UF 5% 63VDC RADIAL"                                                                        
+3300uF     3300uF         TopLayer FP-RAD-TH-D_18_0_5-L_35_5-MFG 2559.055      659.449       270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 3300uF ±20% 35V"              
+3300uF     3300uF         TopLayer FP-RAD-TH-D_18_0_5-L_35_5-MFG 1791.339      659.449       270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 3300uF ±20% 35V"              
+3300uF     3300uF         TopLayer FP-RAD-TH-D_18_0_5-L_35_5-MFG 1023.622      659.449       270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 3300uF ±20% 35V"              
+3300uF     3300uF         TopLayer FP-RAD-TH-D_18_0_5-L_35_5-MFG 2559.055      1417.323      270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 3300uF ±20% 35V"              
+3300uF     3300uF         TopLayer FP-RAD-TH-D_18_0_5-L_35_5-MFG 1791.339      1417.323      270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 3300uF ±20% 35V"              
+3300uF     3300uF         TopLayer FP-RAD-TH-D_18_0_5-L_35_5-MFG 1023.622      1417.323      270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 3300uF ±20% 35V"              
